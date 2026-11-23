@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Desktop\web\back\bodegas-backend\src\main\java\com\example\bodegas\BodegasApplication.java
+C:\Users\USUARIO\Desktop\web\back\bodegas-backend\src\main\java\com\example\bodegas\config\DataLoader.java
+C:\Users\USUARIO\Desktop\web\back\bodegas-backend\src\main\java\com\example\bodegas\controller\BodegaController.java
+C:\Users\USUARIO\Desktop\web\back\bodegas-backend\src\main\java\com\example\bodegas\dto\BodegaDTO.java
+C:\Users\USUARIO\Desktop\web\back\bodegas-backend\src\main\java\com\example\bodegas\dto\ProductoDTO.java
+C:\Users\USUARIO\Desktop\web\back\bodegas-backend\src\main\java\com\example\bodegas\entity\Bodega.java
+C:\Users\USUARIO\Desktop\web\back\bodegas-backend\src\main\java\com\example\bodegas\entity\Producto.java
+C:\Users\USUARIO\Desktop\web\back\bodegas-backend\src\main\java\com\example\bodegas\repository\BodegaRepository.java
+C:\Users\USUARIO\Desktop\web\back\bodegas-backend\src\main\java\com\example\bodegas\repository\ProductoRepository.java
+C:\Users\USUARIO\Desktop\web\back\bodegas-backend\src\main\java\com\example\bodegas\service\BodegaService.java
